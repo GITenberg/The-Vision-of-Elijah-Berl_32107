@@ -1,0 +1,26 @@
+_repo: The-Vision-of-Elijah-Berl_32107
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 32107-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Nason, Frank Lewis
+    birthdate: 1856
+    deathdate: 1928
+    gutenberg_agent_id: '35268'
+    url: http://www.gutenberg.org/2009/agents/35268
+description: ''
+gutenberg_issued: '2010-04-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32107'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'California -- Fiction'
+title: The Vision of Elijah Berl
+url: http://www.gutenberg.org/ebooks/32107
